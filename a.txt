@@ -2,3 +2,5 @@ Testando uma alteração de arquivo
 alteração 1551
 
 Estou alterando o arquivo A para uma nova func
+
+enviando a funcionalidade x
