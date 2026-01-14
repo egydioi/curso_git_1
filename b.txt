@@ -1,3 +1,5 @@
 Testando atualização
 
 Teste de merge
+Teste de merge 2
+Teste de merge 3
